@@ -1,4 +1,4 @@
-f = imread ('fruits.png');
+f = imread ('fruits.png'); //The File type of the image is .png
 imfinfo ('fruits.png')
 imshow (f);
 
